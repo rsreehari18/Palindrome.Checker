@@ -5,4 +5,4 @@ public class UseCase1PalindromeCheckerApp {
         System.out.println("Version: 1.0");
         System.out.println("System initialized successfully.");
     }
-}g
+}
